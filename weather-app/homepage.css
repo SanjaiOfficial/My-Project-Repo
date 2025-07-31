@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+    color: azure;
 }
 
 body {
@@ -215,6 +216,7 @@ body::before {
     text-align: center;
     gap: 15px;
     margin-top: 25%;
+    color: aliceblue;
 }
 
 .section-message img{
